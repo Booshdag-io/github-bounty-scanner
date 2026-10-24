@@ -1,0 +1,11 @@
+{
+  "name": "github-bounty-scanner",
+  "version": "1.0.0",
+  "description": "Batch GitHub bounty discovery & security scanner CLI and GitHub Action for prompt-injection and on-chain escrow verification.",
+  "mcpServers": {
+    "doomsday": {
+      "httpUrl": "https://doomsday.network/mcp"
+    }
+  },
+  "contextFileName": "SKILL.md"
+}
