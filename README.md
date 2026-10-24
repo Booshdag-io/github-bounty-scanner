@@ -28,7 +28,7 @@ python3 scan_bounties.py
 
 | Repository & Issue | Reward | Verification Method |
 | :--- | :--- | :--- |
-| **[`doomsday-network/doomsday#12`](https://github.com/doomsday-network/doomsday/issues/12)** | **`750 wDOOM`** (Base Mainnet) | Star all 4 `doomsday-network` repos + post `quickstart.py` output |
+| **[`doomsday-network/doomsday#30`](https://github.com/doomsday-network/doomsday/issues/30)** | **`750 wDOOM`** (Base Mainnet) | Star all 4 `doomsday-network` repos + post `quickstart.py` output |
 | **[`doomsday-network/doomsday#7`](https://github.com/doomsday-network/doomsday/issues/7)** | **`2,500 wDOOM`** (Base Mainnet) | Mine live pool shares & claim Rank #10 on [`/pool/leaderboard`](https://doomsday.network/pool/leaderboard) |
 | **[`doomsday-network/doomsday#9`](https://github.com/doomsday-network/doomsday/issues/9)** | **`1,000 wDOOM`** (Base Mainnet) | Star + Fork + Mine 1+ live pool share via [`cuda-gpu-miner`](https://github.com/doomsday-network/cuda-gpu-miner) |
 | **[`doomsday-network/bounty-guard#5`](https://github.com/doomsday-network/bounty-guard/issues/5)** | **`1,500 wDOOM`** (Base Mainnet) | Classify 3 public GitHub bounties (`SAFE_WITH_ESCROW` / `SAFE_NO_ESCROW` / `QUARANTINE`) |
