@@ -33,3 +33,5 @@ python3 scan_bounties.py
 | **[`doomsday-network/doomsday#9`](https://github.com/doomsday-network/doomsday/issues/9)** | **`1,000 wDOOM`** (Base Mainnet) | Star + Fork + Mine 1+ live pool share via [`cuda-gpu-miner`](https://github.com/doomsday-network/cuda-gpu-miner) |
 | **[`doomsday-network/bounty-guard#5`](https://github.com/doomsday-network/bounty-guard/issues/5)** | **`1,500 wDOOM`** (Base Mainnet) | Classify 3 public GitHub bounties (`SAFE_WITH_ESCROW` / `SAFE_NO_ESCROW` / `QUARANTINE`) |
 | **[`doomsday-network/bounty-guard#1`](https://github.com/doomsday-network/bounty-guard/issues/1)** | **`500 wDOOM`** (Base Mainnet) | Report a fake GitHub bounty repo or run the 3-second DOOM quickstart |
+
+<!-- radar-sync -->
