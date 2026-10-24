@@ -11,6 +11,7 @@ import urllib.request
 
 KNOWN_BAD_ACTORS = {
     "zhangjiayang6835-cyber/bounty-plaza",
+    "securebananalabs/bug-bounty",
     "ikalus1988/misakanet",
     "bujiproject-art/agentmidasopendevteam",
     "alfrexo95/bounty-bot",
